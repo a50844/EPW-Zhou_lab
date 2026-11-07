@@ -20,3 +20,6 @@ This feature is at bte_transpt.f90, aim to get accumulate ETC and COD v.s. mean 
 This feature calculate thermal excited electron/hole concentration by assuming Fermi-Dirac Distribution.
 Has function metal_char_dens. This feature use Sum{edos*f*dE}
 N/V also.
+
+Update Log
+20261107 : 1. abandon SI units in hall_c_rta kernel.
